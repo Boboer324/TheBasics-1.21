@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "bobo.basic.mixin",
+	"package": "net.bobo.thebasics.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

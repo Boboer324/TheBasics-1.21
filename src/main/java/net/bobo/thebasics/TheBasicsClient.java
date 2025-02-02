@@ -1,4 +1,4 @@
-package bobo.basic;
+package net.bobo.thebasics;
 
 import net.fabricmc.api.ClientModInitializer;
 

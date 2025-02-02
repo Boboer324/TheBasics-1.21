@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"bobo.basic.TheBasics"
+			"net.bobo.thebasics.TheBasics"
 		],
 		"fabric-datagen": [
-			"bobo.basic.TheBasicsDataGenerator"
+			"net.bobo.thebasics.TheBasicsDataGenerator"
 		],
 		"client": [
-			"bobo.basic.TheBasicsClient"
+			"net.bobo.thebasics.TheBasicsClient"
 		]
 	},
 	"mixins": [
